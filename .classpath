@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_111">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/mysql_connector for eclipse/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="F:/tomcat/apache-tomcat-9.0.37/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="F:/tomcat/apache-tomcat-9.0.37/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/javaMail/javax.mail.jar"/>
+	<classpathentry kind="lib" path="F:/javaMail/smtp-1.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/javaMail/jaf-1.1.1/activation.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
